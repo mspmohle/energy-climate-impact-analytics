@@ -103,4 +103,4 @@ License
 All rights reserved.  
 Unauthorized copying, modification, or distribution of this repository or its contents,
 via any medium, is strictly prohibited without express written permission
-Maintained for professional demonstration within the WGU Data Science capstone and AES Analytics series.
+Maintained for professional demonstration AES Analytics series.
