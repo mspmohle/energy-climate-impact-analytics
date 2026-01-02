@@ -71,18 +71,18 @@ Event-Correlated Outage Dataset v2	Aggregated U.S. power-outage reports correlat
 AWS S3 Bucket	Cloud store for processed datasets and figures	s3://aes-climate-impact-analytics/
 
 Environment Setup
-## 1. Clone repository
+### 1. Clone repository
 git clone https://github.com/mspmohle/energy-climate-impact-analytics.git
 cd energy-climate-impact-analytics
 
-## 2. Create Conda environment
+### 2. Create Conda environment
 conda create -n aes-env python=3.11 -y
 conda activate aes-env
 
-## 3. Install dependencies
+### 3. Install dependencies
 pip install -r requirements.txt
 
-## 4. Launch Jupyter
+### 4. Launch Jupyter
 jupyter lab
 
 
